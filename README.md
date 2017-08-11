@@ -1,2 +1,7 @@
 # Projects
-Just a repo of my projects so that I can practice my coding and to learn github.
+
+A repo of my practice projects.
+
+This is meant to help myself get practice with using Github, and to practice my programming.
+
+This repo will have many different languages coming in, and will be kept in their own folders (One folder for C#, another for Python, etc).
